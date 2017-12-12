@@ -6,4 +6,6 @@ Run the following command under the directory you want to set up as competition 
 
 ```
 git clone https://github.com/mahestro/tc-design-seed.git .
+git remote remove origin
+git remote add origin <url>
 ```
